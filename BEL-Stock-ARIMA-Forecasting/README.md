@@ -55,3 +55,8 @@ This model is for educational purposes only and not for financial decision-makin
 
 Result:
 The ARIMA model captures stock trend behavior and provides short-term forecasting insights.
+
+Student Details: 
+Kashaf Khan 
+Uin - 231A055 
+roll no.- 30
